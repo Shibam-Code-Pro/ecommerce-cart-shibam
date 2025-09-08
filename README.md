@@ -2,6 +2,10 @@
 
 A beginner-friendly static front-end e-commerce application built with HTML, CSS, JavaScript, and Bootstrap. This project demonstrates essential e-commerce functionality including product listing, cart management, and checkout validation.
 
+## 🚀 Live Demo
+
+[View Live Portfolio](https://Shibam-Code-Pro.github.io/ecommerce-cart-shibam)
+
 ## 🚀 Features
 
 - **Enhanced Navigation**: Modern gradient navbar with animated brand logo and cart badge
@@ -251,3 +255,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ for learning web development fundamentals**
+
+---
+
+## 📞 Contact
+
+- **Email**: Connect-With-Shibam@outlook.com
+- **LinkedIn**: [linkedin.com/in/shibam-webdev](https://linkedin.com/in/shibam-webdev)
+- **GitHub**: [github.com/Shibam-Code-Pro](https://github.com/Shibam-Code-Pro)
+
+---
+
+⭐ If you found this project helpful, please give it a star on GitHub!
+
