@@ -4,7 +4,7 @@ A beginner-friendly static front-end e-commerce application built with HTML, CSS
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://Shibam-Code-Pro.github.io/ecommerce-cart-shibam)
+[View Live E-Commerce Cart](https://Shibam-Code-Pro.github.io/ecommerce-cart-shibam)
 
 ## 🚀 Features
 
