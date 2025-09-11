@@ -1,6 +1,19 @@
-# E-Commerce Cart Demo
+# 🛒 E-Commerce Cart Demo
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-FF6B6B?style=for-the-badge&logo=storage&logoColor=white)
 
 A beginner-friendly static front-end e-commerce application built with HTML, CSS, JavaScript, and Bootstrap. This project demonstrates essential e-commerce functionality including product listing, cart management, and checkout validation.
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshot/ecommerce-cart-shibam.png" alt="E-Commerce Cart Screenshot" width="800">
+  <p><em>Modern e-commerce interface with gradient design and interactive shopping cart functionality</em></p>
+</div>
 
 ## 🚀 Features
 
@@ -30,20 +43,31 @@ A beginner-friendly static front-end e-commerce application built with HTML, CSS
 
 ```
 ecommerce-cart-shibam/
-├── index.html          # Product listing page
-├── cart.html           # Shopping cart and checkout page
-├── css/
+├── 📄 index.html          # Product listing page
+├── 🛒 cart.html           # Shopping cart and checkout page
+├── 🎨 css/
 │   └── style.css       # Custom styles
-├── js/
+├── ⚡ js/
 │   ├── products.js     # Product data
 │   └── main.js         # Main application logic
-├── images/             # Assets and screenshots
-│   ├── cart-page.png   # Cart page screenshot
-│   └── products-page.png # Products page screenshot
-├── README.md           # Project documentation
-├── LICENSE             # MIT License
-└── .gitignore          # Git ignore file for version control
+├── 🖼️ images/             # Assets and screenshots
+├── 📸 screenshot/         # Project screenshots
+│   └── ecommerce-cart-shibam.png
+├── 📖 README.md           # Project documentation
+├── 📜 LICENSE             # MIT License
+└── 🚫 .gitignore          # Git ignore file for version control
 ```
+
+## 🛠️ Technologies Used
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br><b>HTML5</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br><b>CSS3</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br><b>JavaScript</b></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><br><b>Bootstrap</b></td>
+</tr>
+</table>
 
 ## 📝 Commit History
 
