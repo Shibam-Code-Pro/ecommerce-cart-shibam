@@ -15,6 +15,10 @@ A beginner-friendly static front-end e-commerce application built with HTML, CSS
   <p><em>Modern e-commerce interface with gradient design and interactive shopping cart functionality</em></p>
 </div>
 
+## 🚀 Live Demo
+
+[View Live E-Commerce Cart](https://ecommerce-cart-shibam.netlify.app/)
+
 ## 🚀 Features
 
 - **Enhanced Navigation**: Modern gradient navbar with animated brand logo and cart badge
