@@ -17,7 +17,7 @@ A beginner-friendly static front-end e-commerce application built with HTML, CSS
 
 ## 🚀 Live Demo
 
-[View Live E-Commerce Cart Demo](https://ecommerce-cart-shibam.vercel.app)
+[View E-Commerce Cart Demo](https://ecommerce-cart-shibam.vercel.app)
 
 ## 🚀 Features
 
